@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+(https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -13,6 +13,8 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Or you can visit [Chart Live Demo](https://chart-example-publl9fl4-kalpitchoudhari.vercel.app/?vercelToolbarCode=eUEw5gf1js8XSfk) to see live preview
 
 The index page looks like this:
 
